@@ -1,11 +1,11 @@
 # Project Hub
 
-A simple hub to keep track of your project ideas and prototypes.
+A simple hub to keep track of my project ideas and prototypes.
 
 ## Features
 
-- 📝 **Ideas & PRDs**: Store your project ideas and product requirements documents in the `ideas/` directory
-- ⚡ **Prototypes**: Keep track of your prototypes in the `prototypes/` directory
+- 📝 **Ideas & PRDs**: Store project ideas and product requirements documents in the `ideas/` directory
+- ⚡ **Prototypes**: Keep track of prototypes in the `prototypes/` directory
 - 🎨 **Beautiful UI**: Clean, modern interface to browse your projects
 - 🚀 **Easy to Use**: Just add markdown files to the directories and they'll show up automatically
 

@@ -134,8 +134,8 @@ function App() {
   return (
     <div className="app">
       <header className="header">
-        <h1>🚀 Project Hub</h1>
-        <p>Your collection of ideas and prototypes</p>
+        <h1>🚀 Nisha&apos;s Project Hub</h1>
+        <p>My collection of ideas and prototypes</p>
       </header>
 
       <div className="content">
